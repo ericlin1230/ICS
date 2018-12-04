@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1493042658 source:g:\myportfolio\ics4u\assignment 3\a3q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1492658358 source:c:\users\alice\desktop\assignment 3\a3q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1492694192 source:g:\myportfolio\ics4u\dferewqew\a3q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+

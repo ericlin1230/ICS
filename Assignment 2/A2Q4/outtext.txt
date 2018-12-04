@@ -1,0 +1,5 @@
+Create a program 
+that reads a text 
+file and outputs an 
+edited version of 
+the file. 

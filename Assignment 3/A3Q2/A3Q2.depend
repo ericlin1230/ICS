@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1493044347 source:g:\myportfolio\ics4u\assignment 3\a3q2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+
+1492782506 source:e:\assignment 3\assignment 3\a3q2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+
+1492747833 source:c:\users\alice\desktop\a3q2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<vector>
+

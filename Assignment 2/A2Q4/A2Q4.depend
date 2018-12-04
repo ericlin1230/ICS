@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490710667 source:g:\myportfolio\ics4u\assignment 2\a2q4\main.cpp
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<iostream>
+
